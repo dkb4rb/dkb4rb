@@ -22,9 +22,4 @@ Here are some ideas to get you started:
 - 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DKBARB10&repo=holbertonschool-low_level_programming)](https://github.com/DKBARB10/holbertonschool-low_level_programming)
 
-< Un  href =" https://github.com/anuraghazra/github-readme-stats " > 
-  < img  align =" centro " src =" https://github-readme-stats.vercel.app/api/pin/ ? nombre de usuario = anuraghazra y repo = github-readme estadísticas "/>
- </ una > 
-< un  href =" https://github.com/anuraghazra/convoychat " > 
-  < img  align =" centro " src =" https: // github -readme-stats.vercel.app/api/pin/?username=anuraghazra&repo = convoychat "/>
- </ a>
+
