@@ -1,6 +1,6 @@
-### Hi there, I'm Brick 👋
+### Hi there, I'm Juan Duque👋
 
-  <img align="center" src="https://github.com/DKBARB10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DKBARB10&show_icons=true" />
   
 ### Stats by [Anurag](https://github.com/anuraghazra/github-readme-stats)
 
