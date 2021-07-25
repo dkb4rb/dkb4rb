@@ -2,7 +2,8 @@
 
    
   
-### Stats by ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKBARB10&show_icons=true)
+### 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKBARB10&show_icons=true)
 
 
 **garethbrickman/garethbrickman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
