@@ -9,7 +9,7 @@
 **DKBARB10/DKBARB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKBARB10&layout=compact&theme=radical" />
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DKBARB10)](https://github.com/DKBARB10/github-readme-stats)
 
 
 Here are some ideas to get you started:
