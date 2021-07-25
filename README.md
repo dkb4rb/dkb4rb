@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKBARB10&show_icons=true)
 
 
-**garethbrickman/garethbrickman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DKBARB10/DKBARB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKBARB10&layout=compact&theme=radical" />
 
 Here are some ideas to get you started:
