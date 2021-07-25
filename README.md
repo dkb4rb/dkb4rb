@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DKBARB10&repo=github-readme-stats)](https://github.com/DKBARB10)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DKBARB10&repo=github-readme-stats)](https://github.com/DKBARB10/PERSONAL_REPO)
 
