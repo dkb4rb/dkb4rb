@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href = 'https://www.github.com/yazgiraldoa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
    
 <p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
+     <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
 </p>   
    
 </h2>
