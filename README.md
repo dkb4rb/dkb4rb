@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DKBARB10&repo=holbertonschool-low_level_programming)](https://github.com/DKBARB10/holbertonschool-low_level_programming)
 
 ### Authors
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
+<h2 align = 'center' ><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 
 * **Juan Duque** - @Juan_Duque0 
 
