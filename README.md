@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 * **Yazmin Giraldo** - @yazgiraldoa 
 
-   <a href = 'https://www.twitter.com/@yazgiraldoa'> <img width = '32px' align= 'center'                 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-   <a href = 'https://www.github.com/yazgiraldoa'> <img width = '32px' align= 'center' 
-   src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-    
-   </h2>
+<a href = 'https://www.twitter.com/@yazgiraldoa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/yazgiraldoa'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+</h2>
