@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
  <h2 align = 'center'>Authors</h2>
 <h2 align = 'center' ><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="300px"> 
-
+<p align="center">
+  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton School logo">
+</p>
 * **Juan Duque** - @Juan_Duque0 
 
 <a href = 'https://www.twitter.com/@juan_duque0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
