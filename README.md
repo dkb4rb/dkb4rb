@@ -1,11 +1,10 @@
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h1> Hi Exploit Devops ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <p align='center'>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DKBARB10.DKBARB10)
-<br>
 </p>
- Hi there, I'm Juan Duque👋<br><br>
+
+ Hi there, I'm Juan Duque👋<br><br><br>
  **DKBARB10/DKBARB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
  Here are some ideas to get you started:
 
@@ -40,6 +39,7 @@
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+ <br><br>
  
 <h2> My Blog Posts </h2>
 
