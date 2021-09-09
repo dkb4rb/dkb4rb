@@ -1,11 +1,4 @@
 ### Hi there, I'm Juan Duque👋
-
-   
-  
-### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKBARB10&show_icons=true)
-
-
 **DKBARB10/DKBARB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKBARB10&layout=compact&theme=radical" />
  
@@ -19,10 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DKBARB10&repo=holbertonschool-low_level_programming)](https://github.com/DKBARB10/holbertonschool-low_level_programming)
 
- <h2 align = 'center'>Author</h2>
+<h2 align = 'center'>Author</h2>
 <h2 align = 'center' ><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="300px"> 
 
 * **Juan Duque** - @Juan_Duque0 
