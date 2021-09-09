@@ -35,21 +35,17 @@
  <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
  <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=twitch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitch.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
-<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=hackerrank&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=jekyll&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jekyll.svg'> </a>
 <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
+<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=hackerrank&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg'> </a>
 
  <br><br>
  
@@ -70,3 +66,6 @@
 
 <a href = 'https://www.twitter.com/@juan_duque0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/DKBARB10'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
+<a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+ <a href= https://github.com/DKBARB10?tab=repositories&q=&type=&language=twitch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitch.svg'> </a>
