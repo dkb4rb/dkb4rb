@@ -1,10 +1,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br><br><br>
-<h1> Hello < Exploit Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi Exploit Devops ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DKBARB10.DKBARB10)
-<br><br><br>
+<br>
 </p>
  Hi there, I'm Juan Duque👋<br><br>
  **DKBARB10/DKBARB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
