@@ -51,8 +51,8 @@
  <a href= https://github.com/dkb4rb?tab=repositories&q=&type=&language=youtube&sort= > <img  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
 <a href= https://github.com/dkb4rb?tab=repositories&q=&type=&language=discord&sort= > <img   width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
  <a href= https://github.com/dkb4rb?tab=repositories&q=&type=&language=twitch&sort= > <img   width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitch.svg'> </a>
-<a href = 'https://www.twitter.com/@juan_duque0'> <img  align="center" width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/dkb4rb'> <img  align="center" width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.twitter.com/@juan_duque0'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/dkb4rb'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href= https://github.com/dkb4rb?tab=repositories&q=&type=&language=hackerrank&sort= > <img  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg'> </a>
 
 <br><br>
