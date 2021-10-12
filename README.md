@@ -12,7 +12,7 @@
 
  <div size='20px'> :smile: 
 </div>
- <div text-align="right">
+ <div align="right">
  <div>- 🔭 I’m currently working on ...</div>
  
 - 🌱 I’m currently learning ...
