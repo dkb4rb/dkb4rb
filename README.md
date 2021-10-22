@@ -1,5 +1,5 @@
 <img width="50%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" />
-<h1> Hi Exploit Devops ! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi Exploit Devops ! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 60px> </h1>
 <p align='center'>
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=dkb4rb.dkb4rb)
