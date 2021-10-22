@@ -5,6 +5,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=dkb4rb.dkb4rb)
  
 </p>
+ Hi there, I'm Juan Duque👋<br><br><br>
  <div size='20px'> :smile: 
 </div>
  <div align="left">
@@ -18,7 +19,7 @@
 - ⚡ Fun fact: ...<br>
 </div>
 
- Hi there, I'm Juan Duque👋<br><br><br>
+
  **dkb4rb/dkb4rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
  Here are some ideas to get you started:
 
