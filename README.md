@@ -3,6 +3,11 @@
 <p align='center'>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dkb4rb.dkb4rb)
 </p>
+
+ Hi there, I'm Juan Duque👋<br><br><br>
+ **dkb4rb/dkb4rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+ Here are some ideas to get you started:
+
  <div size='20px'> :smile: 
 </div>
  <div align="center">
@@ -15,9 +20,6 @@
 - 😄 Pronouns: ...<br>
 - ⚡ Fun fact: ...<br>
 </div>
- Hi there, I'm Juan Duque👋<br><br><br>
- **dkb4rb/dkb4rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
- Here are some ideas to get you started:
 
 
 <h2 align="center"> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
