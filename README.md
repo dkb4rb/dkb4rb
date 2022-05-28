@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <img width="41%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" />
 <h1> Hi Exploit Devops ! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
@@ -47,6 +49,8 @@
 <a   href= https://github.com/dkb4rb?tab=repositories&q=&type=&language=jekyll&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jekyll.svg'> </a>
 <a  href= https://github.com/dkb4rb?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
  <br><br>
+ 
+ <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juan-duque-5125441b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/juan-duque-5125441b2?trk=profile-badge">Juan Duque</a></div>
  
   <h2 > About with Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <a href= https://github.com/dkb4rb?tab=repositories&q=&type=&language=youtube&sort= > <img  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
