@@ -1,6 +1,6 @@
 
 
-<img width="41%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" />
+<img width="41%" align="right" alt="Github" src="https://github.com/dkb4rb/dkb4rb.github.io/blob/main/assets/images/masthead.png" />
 <h1> Hi Exploit Devops ! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -11,11 +11,11 @@
  <div size='20px'> :smile: 
 </div>
  <div align="left">
-- 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
+- 🔭 I’m currently working on Hacking and destroy stuffs...<br>
+- 🌱 I’m currently learning in Hack everybody...<br>
+- 👯 I’m looking to collaborate on H4ck N3t ...<br>
+- 🤔 I’m looking for help with hack people...<br>
+- 💬 Ask me about also Hacking...<br>
 - 📫 How to reach me: ...<br>
 - 😄 Pronouns: ...<br>
 - ⚡ Fun fact: ...<br>
