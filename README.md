@@ -58,7 +58,7 @@
 <a href= https://github.com/dkb4rb?tab=repositories&q=&type=&language=hackerrank&sort= > <img  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg'> </a>
 
 
-****************************************
+**************************************
 <h2 align = 'center'>Author</h2>
 <h2 align = 'center' ><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="300px"> 
 
